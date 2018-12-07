@@ -11,4 +11,4 @@ create 2 Linux Kernel(init and exit functions) to list all processes in a linux 
 
 ## Linux Process Family Tree Relation:
 ![alt text](https://github.com/504steven/Linux_Kernel_Loadable_Module/blob/master/Linux%20process%20family%20tree%20relation_1.png)
-![alt text](https://github.com/504steven/Linux_Kernel_Loadable_Module/blob/master/Linux%20process%20family%20tree%20relation_1.png)
+![alt text](https://github.com/504steven/Linux_Kernel_Loadable_Module/blob/master/Linux%20process%20family%20tree%20relation_2.png)
