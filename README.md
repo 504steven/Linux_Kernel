@@ -8,3 +8,7 @@ create 2 Linux Kernel(init and exit functions) to list all processes in a linux 
 
 ## Linux Process Family Tree Relation:
 ![alt text](http://url/to/img.png)
+
+Linux process family tree relation_1.png
+Linux process family tree relation_2.png
+List_Head circular doubly linked list.png
