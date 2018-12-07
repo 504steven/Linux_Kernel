@@ -4,4 +4,5 @@ create 2 Linux Kernel(init and exit functions) to list all processes in a linux 
 
 ## Tech:
 C lang; Macro
+Bash cmd:  lsmod;  ps -el;  pstree;  dmesg:show kernel buffer log;  insmod xxx.ko;  rmmod xxx.ko
 
