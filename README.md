@@ -7,7 +7,7 @@ create 2 Linux Kernel(init and exit functions) to list all processes in a linux 
 * Bash cmd:  lsmod;  ps -el;  pstree;  dmesg:show kernel buffer log;  insmod xxx.ko;  rmmod xxx.ko
 
 ## Linux Process Family Tree Relation:
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/504steven/Linux_Kernel_Loadable_Module/blob/master/List_Head%20circular%20doubly%20linked%20list.png)
 
 Linux process family tree relation_1.png
 Linux process family tree relation_2.png
